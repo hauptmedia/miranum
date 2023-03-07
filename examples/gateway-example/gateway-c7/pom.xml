@@ -26,7 +26,7 @@
         <!--Miranum-->
         <dependency>
             <groupId>io.miragon.miranum</groupId>
-            <artifactId>message-gateway</artifactId>
+            <artifactId>message-adapter-cloudevents</artifactId>
             <version>${project.version}</version>
         </dependency>
 
